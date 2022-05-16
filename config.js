@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['17722386341', '👑 Shadow - King 👑', true],
+  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['5219991402134', '🤖 Mystic - Bot 🤖', true],
   ['5219996125657'],
-  ['5219991402134'],
-  ['5219992095479']
+  ['17722386341']
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
