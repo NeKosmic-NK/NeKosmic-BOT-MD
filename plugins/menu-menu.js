@@ -170,6 +170,7 @@ let str = `
 ° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
+° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}simular *<welcome / bye / promote / demote>*_
 
