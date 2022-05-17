@@ -32,6 +32,7 @@ import {
 import store from './lib/store.js'
 
 const {
+  useSingleFileAuthState,
   DisconnectReason
 } = await import('@adiwajshing/baileys')
 
