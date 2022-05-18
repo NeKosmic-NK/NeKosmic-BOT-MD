@@ -26,9 +26,9 @@ mentionedJid: [room.p, room.p2]
 }
 })
     
-if (!room.pilih) this.sendHydrated(room.p, '*𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚂𝙴𝙻𝙴𝙲𝙲𝙸𝙾𝙽𝙴 𝚄𝙽𝙰 𝙳𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂*', `𝙶𝙰𝙽𝙰𝙳𝙾𝚁 +${room.poin} 𝚇𝙿\n𝙿𝙴𝚁𝙳𝙴𝙳𝙾𝚁 -${room.poin_lose} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴 +${room.poin_bot} 𝚇𝙿`, null, null, null, null, null, [['𝙿𝙸𝙴𝙳𝚁𝙰 🗿', 'Roca'], ['𝙿𝙰𝙿𝙴𝙻 📄', 'Papel'], ['𝚃𝙸𝙹𝙴𝚁𝙰 ✂️', 'Tijeras']], m)
+if (!room.pilih) this.sendHydrated(room.p, '*𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚂𝙴𝙻𝙴𝙲𝙲𝙸𝙾𝙽𝙴 𝚄𝙽𝙰 𝙳𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂*', `𝙶𝙰𝙽𝙰𝙳𝙾𝚁 +${room.poin} 𝚇𝙿\n𝙿𝙴𝚁𝙳𝙴𝙳𝙾𝚁 -${room.poin_lose} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴 +${room.poin_bot} 𝚇𝙿`, null, null, null, null, null, [['PIEDRA 🗿', 'Piedra'], ['PAPEL 📄', 'Papel'], ['TIJERA ✂️', 'Tijera']], m)
     
-if (!room.pilih2) this.sendHydrated(room.p2, '*𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚂𝙴𝙻𝙴𝙲𝙲𝙸𝙾𝙽𝙴 𝚄𝙽𝙰 𝙳𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂*', `𝙶𝙰𝙽𝙰𝙳𝙾𝚁 +${room.poin} 𝚇𝙿\n𝙿𝙴𝚁𝙳𝙴𝙳𝙾𝚁 -${room.poin_lose} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴 +${room.poin_bot} 𝚇𝙿`, null, null, null, null, null, [['𝙿𝙸𝙴𝙳𝚁𝙰 🗿', 'Roca'], ['𝙿𝙰𝙿𝙴𝙻 📄', 'Papel'], ['𝚃𝙸𝙹𝙴𝚁𝙰 ✂️', 'Tijeras']], m)
+if (!room.pilih2) this.sendHydrated(room.p2, '*𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚂𝙴𝙻𝙴𝙲𝙲𝙸𝙾𝙽𝙴 𝚄𝙽𝙰 𝙳𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙾𝙿𝙲𝙸𝙾𝙽𝙴𝚂*', `𝙶𝙰𝙽𝙰𝙳𝙾𝚁 +${room.poin} 𝚇𝙿\n𝙿𝙴𝚁𝙳𝙴𝙳𝙾𝚁 -${room.poin_lose} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴 +${room.poin_bot} 𝚇𝙿`, null, null, null, null, null, [['PIEDRA 🗿', 'Piedra'], ['PAPEL 📄', 'Papel'], ['TIJERA ✂️', 'Tijera']], m)
                                     
 room.waktu_milih = setTimeout(() => {
 if (!room.pilih && !room.pilih2) this.sendButton(m.chat, `*[❗] 𝙽𝙸𝙽𝙶𝚄𝙽 𝙹𝚄𝙶𝙰𝙳𝙾𝚁 𝚃𝙾𝙼𝙾 𝙻𝙰 𝙸𝙽𝙸𝙲𝙸𝙰𝚃𝙸𝚅𝙰 𝙳𝙴 𝙴𝙼𝙴𝙿𝙴𝚉𝙰𝚁 𝙴𝙻 𝙹𝚄𝙴𝙶𝙾, 𝙴𝙻 𝙿𝚅𝙿 𝚂𝙴 𝙰𝙷 𝙲𝙰𝙽𝙲𝙴𝙻𝙰𝙳𝙾*`, wm, null, [['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']], m)
@@ -48,7 +48,7 @@ let jwb2 = m.sender == room.p2
 let g = /gunting/i
 let b = /batu/i
 let k = /kertas/i
-let reg = /^(tijeras|roca|papel)/i
+let reg = /^(tijera|piedra|papel)/i
 if (jwb && reg.test(m.text) && !room.pilih && !m.isGroup) {
 room.pilih = reg.exec(m.text.toLowerCase())[0]
 room.text = m.text
@@ -77,8 +77,8 @@ this.reply(room.asal, `*🎮 𝙶𝙰𝙼𝙴𝚂 - 𝙿𝚅𝙿 - 𝙶𝙰𝙼�
 
 *—◉ 𝚁𝙴𝚂𝚄𝙻𝚃𝙰𝙳𝙾 𝙳𝙴𝙻 𝙹𝚄𝙴𝙶𝙾*
 
-*◉ @${room.p.split`@`[0]} (${room.text}) ${tie ? '' : room.p == win ? ` 𝙶𝙰𝙽𝙾 \n+${room.poin} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴, 𝙱𝙾𝙽𝚄𝚂: +${room.poin_bot} 𝚇𝙿` : ` 𝙿𝙴𝚁𝙳𝙸𝙾 \n-${room.poin_lose} 𝚇𝙿`}*
-*◉ @${room.p2.split`@`[0]} (${room.text2}) ${tie ? '' : room.p2 == win ? ` 𝙶𝙰𝙽𝙾 \n+${room.poin} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴, 𝙱𝙾𝙽𝚄𝚂: +${room.poin_bot} 𝚇𝙿` : ` 𝙿𝙴𝚁𝙳𝙸𝙾 \n-${room.poin_lose} 𝚇𝙿`}*
+*◉ @${room.p.split`@`[0]} (${room.text}) ${tie ? '' : room.p == win ? ` 𝙶𝙰𝙽𝙾 \n${room.poin} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴, 𝙱𝙾𝙽𝚄𝚂: ${room.poin_bot} 𝚇𝙿` : ` 𝙿𝙴𝚁𝙳𝙸𝙾 ${room.poin_lose} 𝚇𝙿`}*
+*◉ @${room.p2.split`@`[0]} (${room.text2}) ${tie ? '' : room.p2 == win ? ` 𝙶𝙰𝙽𝙾 \n${room.poin} 𝚇𝙿\n𝙴𝙼𝙿𝙰𝚃𝙴, 𝙱𝙾𝙽𝚄𝚂: ${room.poin_bot} 𝚇𝙿` : ` 𝙿𝙴𝚁𝙳𝙸𝙾 ${room.poin_lose} 𝚇𝙿`}*
 `.trim(), m, { contextInfo: { mentionedJid: [room.p, room.p2] } })
 
 if (!tie) {
