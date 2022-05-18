@@ -103,6 +103,7 @@ let str = `
 ° ඬ⃟🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}pregunta *<texto>*_
 ° ඬ⃟🎖️ _${usedPrefix}slot *<apuesta>*_
+° ඬ⃟🎖️ _${usedPrefix}pvp *<@tag>*_
 ° ඬ⃟🎖️ _${usedPrefix}simi *<texto>*_
 ° ඬ⃟🎖️ _${usedPrefix}topgays_
 ° ඬ⃟🎖️ _${usedPrefix}topotakus_
@@ -382,9 +383,10 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 *<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
 
 ° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
 ° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
 ° ඬ⃟👽 _${usedPrefix}ttp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>_
+° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
 ° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
 ° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
 ° ඬ⃟👽 _${usedPrefix}dado_
