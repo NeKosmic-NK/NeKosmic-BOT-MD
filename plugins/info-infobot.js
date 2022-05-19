@@ -36,7 +36,12 @@ let info = `
 ╠
 ╠═〘 𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭 〙 ═
 `.trim() 
-conn.reply(m.chat, info, m)
+conn.reply(m.chat, info, m, {
+contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
+title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
+body: 'ᴛʜᴇ ᴍʏsᴛɪᴄ ﹣ ʙᴏᴛ',         
+previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
+sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
