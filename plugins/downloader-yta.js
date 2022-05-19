@@ -37,5 +37,4 @@ asDocument: chat.useDocument
 handler.help = ['mp3', 'a'].map(v => 'yt' + v + ` <url>`)
 handler.tags = ['downloader']
 handler.command = /^yt(a|mp3)$/i
-handler.exp = 500
 export default handler
