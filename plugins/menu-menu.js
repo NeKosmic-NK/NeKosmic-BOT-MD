@@ -161,8 +161,6 @@ let str = `
 ° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
 ° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
 ° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}banchat_
-° ඬ⃟💎 _${usedPrefix}unbanchat_
 ° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 ° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
 ° ඬ⃟💎 _${usedPrefix}infogroup_
@@ -173,7 +171,6 @@ let str = `
 ° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
 ° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
-° ඬ⃟💎 _${usedPrefix}simular *<welcome / bye / promote / demote>*_
 
 *<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
 
@@ -407,8 +404,8 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}disable *pconly*_
 ° ඬ⃟👑 _${usedPrefix}enable *gconly*_
 ° ඬ⃟👑 _${usedPrefix}disable *gconly*_
-° ඬ⃟👑 _${usedPrefix}banchat2_
-° ඬ⃟👑 _${usedPrefix}unbanchat2_
+° ඬ⃟👑 _${usedPrefix}banchat_
+° ඬ⃟👑 _${usedPrefix}unbanchat_
 ° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}unbanuser *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
