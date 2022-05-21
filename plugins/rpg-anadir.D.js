@@ -1,4 +1,4 @@
-// creditos a https://github.com/FG98F
+/* creditos a https://github.com/FG98F */
 import MessageType from '@adiwajshing/baileys'
 let pajak = 0
 let handler = async (m, { conn, text }) => {
@@ -16,10 +16,8 @@ limit += pjk
 if (limit < 1) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙼𝙸𝙽𝙸𝙼𝙾 𝙳𝙴 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴𝚂 𝙿𝙰𝚁𝙰 𝙰𝙽̃𝙰𝙳𝙸𝚁 𝙴𝚂 𝟷*'
 let users = global.db.data.users
 users[who].limit += dmt
-m.reply(`≡ *💎 𝙰𝙽̃𝙰𝙳𝙸𝙳𝙾*
-┌──────────────
-▢ *𝚃𝚘𝚝𝚊𝚕:* ${dmt}
-└──────────────`)
+m.reply(`*[ ✔ ] 𝚂𝙴 𝙰𝙽̃𝙰𝙳𝙸𝙴𝚁𝙾𝙽 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙻𝙾𝚂 𝙳𝙸𝙰𝙼𝙰𝙽𝚃𝙴𝚂 𝙳𝙰𝙳𝙾𝚂*
+*- 𝚃𝚘𝚝𝚊𝚕: ${dmt}*`)
 }
 handler.help = ['adddi <@user>']
 handler.tags = ['xp']
