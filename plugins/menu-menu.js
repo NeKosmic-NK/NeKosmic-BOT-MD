@@ -152,6 +152,7 @@ let str = `
 ° ඬ⃟📥 _${usedPrefix}wallpaper2 *<texto>*_
 ° ඬ⃟📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
 ° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
+° ඬ⃟📥 _${usedPrefix}igstory *<nombre de usuario>*_
 ° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
 
 *<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
