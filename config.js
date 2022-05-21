@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['5219991402134', '🤖 Mystic - Bot 🤖', true],
+  ['50575008120', '🤖 Mystic - Bot 🤖', true],
   ['5219996125657'],
   ['17722386341']
 ] // Cambia los numero que quieras
