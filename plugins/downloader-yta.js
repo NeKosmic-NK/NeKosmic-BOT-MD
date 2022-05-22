@@ -31,9 +31,8 @@ audio = link = source = null
 lastError = e
 }}
 if ((!(source instanceof ArrayBuffer) || !link || !res.ok) && !isLimit) throw '*[❗] 𝙴𝚁𝚁𝙾𝚁: ' + (lastError || '𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝙴𝙻 𝙰𝚄𝙳𝙸𝙾*')
-conn.sendFile(m.chat, source, title + '.mp3', `*🔥 𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}`.trim(), m, null, {
-asDocument: chat.useDocument
-})}
+conn.sendFile(m.chat, source, title + '.mp3', null, m, false, { mimetype: 'audio/mp4' })
+}
 handler.help = ['mp3', 'a'].map(v => 'yt' + v + ` <url>`)
 handler.tags = ['downloader']
 handler.command = /^yt(a|mp3)$/i
