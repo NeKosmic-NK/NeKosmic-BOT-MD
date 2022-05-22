@@ -4,14 +4,12 @@ conn.reply(m.chat,`*┌────「 𝚁𝙴𝚃𝙾 」─*\n*“${pickRando
 handler.help = ['reto']
 handler.tags = ['fun']
 handler.command = /^reto/i
-handler.fail = null
 export default handler
 
 function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
 
-// https://jalantikus.com/tips/kata-kata-bucin/
 global.bucin = [
 "Pasa el pack de una hormiga",
 "Dile a tus amigos que te vas a vivir a EU y mándame una captura de lo que te haya dicho",
