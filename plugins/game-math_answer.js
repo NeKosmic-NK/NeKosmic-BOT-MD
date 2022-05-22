@@ -21,5 +21,4 @@ delete global.math[id]
 }}}
 handler.customPrefix = /^-?[0-9]+(\.[0-9]+)?$/
 handler.command = new RegExp
-handler.exp = 0
 export default handler
