@@ -58,6 +58,4 @@ throw INTROJUEGO
 handler.help = ['ppt']
 handler.tags = ['games']
 handler.command = /^(ppt)$/i
-handler.register = false
-handler.limit = false
 export default handler
