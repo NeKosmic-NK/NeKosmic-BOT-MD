@@ -15,10 +15,6 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 ```
 
-### `—◉ ✨ ACTIVAR EN railway ✨`
-[`railway.app`](https://railway.app/new/github)
-```
-
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
