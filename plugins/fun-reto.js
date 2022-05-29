@@ -1,5 +1,5 @@
 let handler  = async (m, { conn }) => {
-conn.reply(m.chat,`*┌────「 𝚁𝙴𝚃𝙾 」─*\n*“${pickRandom(global.bucin)}”*\n*└────「 𝙼𝚈𝚂𝚃𝙸𝙲 」─*`, m)
+conn.reply(m.chat,`*┌────「 𝚁𝙴𝚃𝙾 」─*\n*“${pickRandom(global.bucin)}”*\n*└────「 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 」─*`, m)
 }
 handler.help = ['reto']
 handler.tags = ['fun']
@@ -23,7 +23,7 @@ global.bucin = [
 "Escribe en tu estado de WhatsApp que te gusta comer tierra",
 "Debes de poner la fotografía de un participante del grupo que sea del sexo opuesto al tuyo en tu perfil de WhatsApp durante 3 días 📸📸",
 "Tienes que mandar un audio cantando la canción: Un pato que va cantando alegremente cua cua 🦆",
-"Envía un mensaje a tu ex y dile todavía me gustas", "Envía un audio diciendo amo a The Shadow Brokers - Bot", 
+"Envía un mensaje a tu ex y dile todavía me gustas", "Envía un audio diciendo amo a NeKosmic - Bot", 
 "Dile a tu crush que la amas y pasa captura al grupo", "Envía un audio cantando", 
 "Envía una foto en la que salgas tu sin taparte la cara ni nada", "Envía un video bailando", 
 "Invita a personas que no conoces a tomarse una selfi contigo y luego envíalo al grupo", 
