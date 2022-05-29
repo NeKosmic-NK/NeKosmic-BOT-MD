@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50575008120', '🤖 Mystic - Bot 🤖', true],
+  ['33623542554', '👑 NeKosmic - Creador 👑', true],
+  ['5492615130362', '🔥 NeKosmic 🔥', true],
   ['17722386341']
 ] // Cambia los numero que quieras
 global.mods = [] 
@@ -60,11 +60,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '(≧▽≦)'
+global.author = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
+global.igfg = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
