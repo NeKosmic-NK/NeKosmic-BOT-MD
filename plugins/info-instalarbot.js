@@ -37,4 +37,4 @@ sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 }
 handler.command = /^(instalarbot)/i
 export default handler
-/*
+*/
