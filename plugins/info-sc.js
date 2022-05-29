@@ -1,3 +1,4 @@
+/*
 import fs from 'fs'
 let handler = async (m, { conn }) => {
 conn.reply(m.chat, `*https://github.com/BrunoSobrino/TheMystic-Bot-MD*`, m, {
@@ -11,3 +12,4 @@ handler.command = ['sc','script']
 handler.help = ['sc']
 handler.tags = ['General']
 export default handler
+*/
