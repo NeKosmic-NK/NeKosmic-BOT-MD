@@ -1,3 +1,4 @@
+/.
 import fs from 'fs'
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let text = `
@@ -15,3 +16,4 @@ sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 }
 handler.command = /^(jadibot|serbot|bots|subbots|getcode)/i
 export default handler
+/.
