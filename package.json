@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
+    "name": "NeKosmic-BOT-MD",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Sigueme en Instagram: @nekosmic.nk",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/BrunoSobrino",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "NeKosmic"
     },
     "repository": {
         "type": "git",
