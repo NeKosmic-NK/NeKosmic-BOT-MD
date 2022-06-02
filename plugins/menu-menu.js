@@ -83,7 +83,7 @@ let str = `
 
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
 
-° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
+° ඬ⃟👑 _${usedPrefix}join *<enlace / link / url>*_
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 
