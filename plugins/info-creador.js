@@ -7,7 +7,7 @@ conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙾𝚆𝙽𝙴𝚁',
 body: 'BY NeKosmic',         
-previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
+previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
 sourceUrl: `https://wa.me/34623442554`}}})
 const data = global.owner.filter(([id, isCreator]) => id && isCreator)
 this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
