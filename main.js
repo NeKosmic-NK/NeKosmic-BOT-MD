@@ -95,7 +95,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  browser: ['TheMystic-Bot','Chrome','1.0.0'],
+  browser: ['NeKosmix-Bot','Chrome','1.0.0'],
   // logger: pino({ level: 'trace' })
 }
 
