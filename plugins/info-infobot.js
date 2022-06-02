@@ -39,7 +39,7 @@ let info = `
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
-body: 𝐁𝐲: 𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜',         
+body: '𝐁𝐲 𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
 sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 }
