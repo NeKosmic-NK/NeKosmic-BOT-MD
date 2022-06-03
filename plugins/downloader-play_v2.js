@@ -8,8 +8,8 @@ conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴀᴜ�
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝙰𝚄𝙳𝙸𝙾',
 body: 𝙱𝚈 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃',         
-previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
+previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
+sourceUrl: `https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn`}}})
 let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp3?text="+text)
 let json = await res.json()
 conn.sendFile(m.chat, json.result.url, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' })}
