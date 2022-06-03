@@ -41,7 +41,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
 body: '𝐁𝐲 𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜',         
 previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
+sourceUrl: `https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
