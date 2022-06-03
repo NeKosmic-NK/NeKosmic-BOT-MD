@@ -7,7 +7,7 @@ if (!args || !args[0]) throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃
 conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*\n\n*◉ Sɪ Sᴜ ᴠɪᴅᴇᴏ ɴᴏ ᴇs ᴇɴᴠɪᴀᴅᴏ, ᴘʀᴜᴇʙᴇ ᴄᴏɴ ᴇʟ ᴄᴏᴍᴀɴᴅᴏ #playdoc ᴏ #play.2 ᴏ #ytmp4doc ◉*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴𝙾',
-body: 𝙱𝚈 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃',         
+body: '𝙱𝚈 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃',         
 previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
 sourceUrl: `https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn`}}})
 let chat = global.db.data.chats[m.chat]
