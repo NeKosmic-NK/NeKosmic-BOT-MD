@@ -3,7 +3,7 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 *Hola 👋, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de NeKosmic - Bot*
 
 *➤ Grupos oficiales del Bot:*
-*1.-* https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy
+*1.-* https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58
 
 *2.-* https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc
 
