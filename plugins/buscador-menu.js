@@ -111,7 +111,7 @@ await conn.sendMessage(m.chat, listMessage)
 
 handler.help = ['infomenu'].map(v => v + 'able <option>')
 handler.tags = ['group', 'owner']
-handler.command = /^(buscarmenu)$/i
+handler.command = /^(wamenu)$/i
 handler.exp = 70
 export default handler
 
