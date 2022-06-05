@@ -89,7 +89,7 @@ footer: `╭━━〔 *${wm}* 〕━━⬣
 ┃✪ *FECHA ➺ ${week}, ${date}*
 ┃✪ *USUARIOS | USERS ➺ ${Object.keys(global.db.data.users).length}* 
 ┃🎈🎈🎈🎈🎈🎈🎈🎈🎈
-╰━━━━━━〔 𓃠 *NeKosmic* 〕━━━━━━⬣
+╰━━━━━━〔 👑*NeKosmic*👑 〕━━━━━━⬣
 ╭━━〔 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄Ó𝙉 | 𝙄𝙉𝙁𝙊 𝙈𝙀𝙉𝙐 〕━━⬣
 ┃ *PRESIONE ESTE MENSAJE PARA IR AL MENÚ.*
 ┃ *PRESS THIS MESSAGE TO GO TO THE MENU.*
@@ -102,7 +102,7 @@ footer: `╭━━〔 *${wm}* 〕━━⬣
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 ${wm}`,
 title: null,
-buttonText: "𝙋𝙍𝙀𝙎𝙄𝙊𝙉𝙀 𝘼𝙌𝙐Í | 𝙋𝙍𝙀𝙎𝙎 𝙃𝙀𝙍𝙀", 
+buttonText: "𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄", 
 sections }
 
 await conn.sendMessage(m.chat, listMessage)
