@@ -79,17 +79,17 @@ let username = conn.getName(who)
 
 
 const listMessage = {
-text: `💗 *¡HOLA | HI!* ${username}`,
+text: `✨ *¡HOLA | HI!* ${username}`,
 footer: `╭━━〔 *${wm}* 〕━━⬣
-┃🎈🎈🎈🎈🎈🎈🎈🎈🎈
+┃🔥🔥🔥🔥🔥🔥🔥🔥🔥
 ┃✪ *EXPERIENCIA | EXP ➺ ${exp}*
 ┃✪ *NIVEL | LEVEL ➺ ${level}*
 ┃✪ *ROL ➺ ${role}*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃✪ *FECHA ➺ ${week}, ${date}*
 ┃✪ *USUARIOS | USERS ➺ ${Object.keys(global.db.data.users).length}* 
-┃🎈🎈🎈🎈🎈🎈🎈🎈🎈
-╰━━━━━━〔 👑*NeKosmic*👑 〕━━━━━━⬣
+┃🔥🔥🔥🔥🔥🔥🔥🔥🔥
+╰━━━━━━〔 👑 *NeKosmic* 👑 〕━━━━━━⬣
 ╭━━〔 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄Ó𝙉 | 𝙄𝙉𝙁𝙊 𝙈𝙀𝙉𝙐 〕━━⬣
 ┃ *PRESIONE ESTE MENSAJE PARA IR AL MENÚ.*
 ┃ *PRESS THIS MESSAGE TO GO TO THE MENU.*
