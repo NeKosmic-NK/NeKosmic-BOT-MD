@@ -100,10 +100,11 @@ footer: `╭━━〔 *${wm}* 〕━━⬣
 ┃🔍➺ _${usedPrefix}letra | lirik *texto*_
 ┃🔍➺ _${usedPrefix}ytsearch | yts *texto*_
 ┃🔍➺ _${usedPrefix}wiki | wikipedia *texto*_
+┃🔍➺ _${usedPrefix}wiki | grupos *texto*_
 ╰━━━━━━━━━━━━━━━━━━━━⬣
 ${wm}`,
 title: null,
-buttonText: "𝐏𝐑𝐄𝐒𝐒 𝐇𝐄𝐑𝐄", 
+buttonText: "𝙋𝙍𝙀𝙎𝙎 𝙃𝙀𝙍𝙀", 
 sections }
 
 await conn.sendMessage(m.chat, listMessage)
