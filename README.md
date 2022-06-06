@@ -91,4 +91,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 `The Mystic - Bot __________ By Bruno Sobrino`
 
-## Game.js
+[![NeKosmic](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/master/Game.js?raw=truesize=100)](https://github.com/NeKosmic-NK/) 
+
+
