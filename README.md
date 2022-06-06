@@ -91,3 +91,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 `The Mystic - Bot __________ By Bruno Sobrino`
 
+## Game.js
