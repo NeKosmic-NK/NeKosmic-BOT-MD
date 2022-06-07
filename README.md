@@ -21,7 +21,7 @@
 [![blog](https://img.shields.io/badge/X-Acount-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc) <a href="https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 -----
-### 💖 ```DONAR``` [`Aquí`](https://paypal.me/NeKosmicOFC)
+### 💸 ```DONAR``` [`Aquí`](https://paypal.me/NeKosmicOFC)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NeKosmic-NK/NeKosmic-Bot-MD)
