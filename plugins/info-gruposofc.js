@@ -12,10 +12,6 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 *4.-* https://chat.whatsapp.com/Gm0veATfRP75zmq1W2Ypb3
 
 *5._* https://chat.whatsapp.com/Gm0veATfRP75zmq1W2Ypb3
-`.trim()
-//await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
-//type: 'audioMessage', 
-//ptt: true}
 `.trim(), wm, media, [['𝙸𝚁 𝙰𝙻 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '.menu']], m)
 handler.command = /^linkgc|grupos$/i
 export default handler
