@@ -13,7 +13,7 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 
 *5._* https://chat.whatsapp.com/Gm0veATfRP75zmq1W2Ypb3
 *_TEAM BLACK EAGLE_*
-https://chat.whatsapp.com/H9aWccvYaJADCDYcAkLd0O
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/H9aWccvYaJADCDYcAkLd0O', '✨𝘽𝙡𝙖𝙘𝙠 𝙀𝙖𝙜𝙡𝙚✨', null, null, [
 `.trim(), wm, media, [['𝙸𝚁 𝙰𝙻 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '.menu']], m)
 handler.command = /^linkgc|grupos$/i
 export default handler
