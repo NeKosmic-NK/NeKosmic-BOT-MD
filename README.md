@@ -1,7 +1,7 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `👑 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃 👑`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/34623442554" target="blank"><img src="https://img.shields.io/badge/NeKosmic_NK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
@@ -16,8 +16,8 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -31,8 +31,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> git clone https://github.com/NeKosmic-NK/NeKosmic-Bot-MD
+> cd NeKosmic-Bot-MD
 > npm install
 > yarn install 
 > npm install
@@ -44,15 +44,15 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd NeKosmic-Bot-MD
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
+### `—◉ 🥶 OBTENER OTRO CODIGO QR 🥶`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd NeKosmic-Bot-MD
 > rm -rf session.data.json
 > npm start
 ```
@@ -89,8 +89,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![BrunoSobrino](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
-`The Mystic - Bot __________ By Bruno Sobrino`
-
-[![NeKosmic](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/master/Game.js?raw=truesize=100)](https://github.com/NeKosmic-NK/) 
+`NeKosmic - Bot __________ By NeKosmic`
 
 
