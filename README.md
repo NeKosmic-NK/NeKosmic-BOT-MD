@@ -18,8 +18,8 @@
 [![blog](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58)  <a href="https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
-[![blog](https://img.shields.io/badge/Grupo2-GataBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JFTOYLdpiTBCluFJvikBxN) <a href="https://chat.whatsapp.com/JFTOYLdpiTBCluFJvikBxN"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/Grupo2-X Acount-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc) <a href="https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 -----
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/NeKosmicOFC)
 
