@@ -106,7 +106,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
+[![BrunoSobrino](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/master/5.jpeg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
 `NeKosmic - Bot __________ By NeKosmic`
 
