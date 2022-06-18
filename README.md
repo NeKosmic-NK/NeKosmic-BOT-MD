@@ -110,3 +110,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 `NeKosmic - Bot __________ By NeKosmic`
 
+### 🎰 ```JUGAR``` [`Aquí`](https://GitHub.com/NeKosmic-NK/NeKosmic-BOT-MD/juego.js)
+
+
