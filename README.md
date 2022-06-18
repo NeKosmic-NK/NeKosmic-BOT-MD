@@ -109,6 +109,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 [![NeKosmic](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/media2/master/5.jpeg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
 `NeKosmic - Bot __________ By NeKosmic`
-## Index.html
-
 
