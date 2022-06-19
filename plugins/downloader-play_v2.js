@@ -12,7 +12,7 @@ previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
 sourceUrl: `https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn`}}})
 let res = await fetch("https://my-api-bice.vercel.app/api/ytplay?apikey=nktesla&q="+text)
 let json = await res.json()
-conn.sendFile(m.chat, json.result.url, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' })}
+conn.sendFile(m.chat, json.descarga, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' })}
 if (command == 'play.2') {
 conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
