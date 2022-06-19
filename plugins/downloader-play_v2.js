@@ -10,7 +10,7 @@ title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝙰𝚄𝙳𝙸�
 body: 𝙱𝚈 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃',         
 previewType: 0, thumbnail: fs.readFileSync("./media2/4.jpeg"),
 sourceUrl: `https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn`}}})
-let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp3?text="+text)
+let res = await fetch("https://my-api-bice.vercel.app/api/ytplay?apikey=nktesla&q=="+text)
 let json = await res.json()
 conn.sendFile(m.chat, json.result.url, 'error.mp3', null, m, false, { mimetype: 'audio/mp4' })}
 if (command == 'play.2') {
