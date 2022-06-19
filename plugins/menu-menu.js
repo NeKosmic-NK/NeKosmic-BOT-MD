@@ -140,6 +140,7 @@ let str = `
 ° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}gitclone *<enlace / link / url>*_
+° ඬ⃟📥 _${usedPrefix}gdrive *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}tiktok *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
