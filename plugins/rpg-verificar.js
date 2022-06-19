@@ -26,5 +26,5 @@ global.db.data.users[m.sender].exp += 10000
 }
 handler.help = ['verificar']
 handler.tags = ['xp']
-handler.command = /^(verify|register|verificar)$/i
+handler.command = /^(^(verify|register|verificar|reg|registrar)$/i
 export default handler
