@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/a/49j3QEJ.jpg" alt="900" width="900"/>
+<img src="[https://i.imgur.com/a/49j3QEJ.jpg](https://i.imgur.com/a/49j3QEJ.jpg)" alt="GIF" width="450" height="240"/>
 </p>
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
