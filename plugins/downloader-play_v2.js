@@ -22,7 +22,7 @@ previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
 sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
 let res = await fetch("https://api.lolhuman.xyz/api/ytplay2?apikey=9b817532fadff8fc7cb86862&query="+text)
 let json = await res.json()
-conn.sendFile(m.chat, json.result.url, 'error.mp4', `_𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜 - 𝐁𝐨𝐭_`, m)}
+conn.sendFile(m.chat, json.result.video, 'error.mp4', `_𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜 - 𝐁𝐨𝐭_`, m)}
 }catch(e){
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
 console.log(e)
