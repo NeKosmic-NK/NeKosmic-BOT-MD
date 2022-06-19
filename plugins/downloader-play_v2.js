@@ -20,7 +20,7 @@ title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴�
 body: '𝙱𝚈 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
 sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
-let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp4?text="+text)
+let res = await fetch("https://api.lolhuman.xyz/api/ytplay2?apikey=9b817532fadff8fc7cb86862&query="+text)
 let json = await res.json()
 conn.sendFile(m.chat, json.result.url, 'error.mp4', `_𝐍𝐞𝐊𝐨𝐬𝐦𝐢𝐜 - 𝐁𝐨𝐭_`, m)}
 }catch(e){
