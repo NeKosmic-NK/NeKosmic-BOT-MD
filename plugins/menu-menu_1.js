@@ -1,9 +1,10 @@
-@@ -0,0 +1,391 @@
 /* 
 Codigo abierto - Dejar creditos
 Created by https://github.com/BrunoSobrino 
 */
-/*import { xpRange } from '../lib/levelling.js'
+
+/*
+import { xpRange } from '../lib/levelling.js'
 const { levelling } = '../lib/levelling.js'
 import PhoneNumber from 'awesome-phonenumber'
 import { promises } from 'fs'
@@ -14,7 +15,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
 let who
 if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
 else who = m.sender   
-
+    
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
 let { exp, limit, level, role } = global.db.data.users[m.sender]
 let { min, xp, max } = xpRange(level, global.multiplier)
@@ -67,7 +68,7 @@ level, limit, name, weton, week, date, dateIslamic, time, totalreg, rtotalreg, r
 readmore: readMore
 }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])    
-
+    
 let imagen1 = fs.readFileSync('./Menu2.jpg')
 let imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
 let imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
@@ -360,7 +361,7 @@ mentions:[m.sender, owner],
 footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
 buttons: buttons,
 headerType: 4,
-
+    
 contextInfo: {
 "mentionedJid": [m.sender, owner],
 "externalAdReply": {
@@ -372,19 +373,17 @@ contextInfo: {
 "mediaUrl": 'https://youtu.be/eC9TfKICpcY',
 "sourceUrl": 'https://www.pornhub.com'
 }}} 
-
 conn.sendMessage(m.chat, buttonMessage, fake)
-
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
 handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos|m|\?)$/i
 export default handler
-
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 function clockString(ms) {
 let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
 let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
 let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
-return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}/*
+return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}
+*/
