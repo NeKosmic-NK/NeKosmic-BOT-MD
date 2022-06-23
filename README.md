@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/readme.img.jpg" alt="GIF" width="390" height="420"/>
+<img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/readme.img.jpg" alt="GIF" width="400" height="420"/>
 </p>
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
@@ -106,7 +106,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![NeKosmic](https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/blob/media2/master/5.jpeg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
+[![NeKosmic](https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/5.jpeg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
 `NeKosmic - Bot __________ By NeKosmic`
 
