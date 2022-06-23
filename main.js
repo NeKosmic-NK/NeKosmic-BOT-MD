@@ -31,6 +31,8 @@ global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.
 
 global.timestamp = { start: new Date }
 
+const __dirname = global.__dirname(import.meta.url)
+
 global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
 global.prefix = new RegExp('^[' + (opts['prefix'] || 'xzXZ/i!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-HhhHBb.aA').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']')
 
@@ -71,7 +73,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
-browser: ['NeKosmic-Bot','Edge','1.0.0'],
+browser: ['TheMystic-Bot','Edge','1.0.0'],
 }
 
 global.conn = makeWASocket(connectionOptions)
