@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/readme.img.jpg" alt="GIF" width="450" height="240"/>
+<img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/readme.img.jpg" alt="GIF" width="240" height="450"/>
 </p>
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
