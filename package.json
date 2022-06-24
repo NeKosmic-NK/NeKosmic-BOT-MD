@@ -1,7 +1,7 @@
 {
-    "name": "NeKosmic-BOT-MD",
+    "name": "NeKosmic-Bot-MD",
     "version": "1.0.0",
-    "description": "Sigueme en Instagram: @nekosmic.nk",
+    "description": "Sigueme en ig: @nekosmic.nk ",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -16,7 +16,7 @@
     },
     "homepage": "https://github.com/BrunoSobrino",
     "author": {
-        "name": "NeKosmic"
+        "name": "BrunoSobrino"
     },
     "repository": {
         "type": "git",
@@ -65,6 +65,6 @@
         "wa-sticker-formatter": "^4.3.2",
         "yargs": "^17.3.1",
         "yt-search": "^2.10.2",
-        "yt-search": "^2.7.6"      
+        "yt-search": "^2.7.6"
     }
 }
