@@ -1,9 +1,8 @@
 /* 
 Codigo abierto - Dejar creditos
 Created by https://github.com/BrunoSobrino 
-*/
+👇🏻 EMPEIZA A MODIFICAR DESDE AQUÍ 👇🏻 */
 
-/*
 import { xpRange } from '../lib/levelling.js'
 const { levelling } = '../lib/levelling.js'
 import PhoneNumber from 'awesome-phonenumber'
@@ -15,7 +14,6 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
 let who
 if (m.isGroup) who = m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
 else who = m.sender   
-    
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
 let { exp, limit, level, role } = global.db.data.users[m.sender]
 let { min, xp, max } = xpRange(level, global.multiplier)
@@ -27,27 +25,22 @@ let week = d.toLocaleDateString(locale, { weekday: 'long' })
 let date = d.toLocaleDateString(locale, {
 day: 'numeric',
 month: 'long',
-year: 'numeric'
-})
+year: 'numeric' })
 let dateIslamic = Intl.DateTimeFormat(locale + '-TN-u-ca-islamic', {
 day: 'numeric',
 month: 'long',
-year: 'numeric'
-}).format(d)
+year: 'numeric' }).format(d)
 let time = d.toLocaleTimeString(locale, {
 hour: 'numeric',
 minute: 'numeric',
-second: 'numeric'
-})
+second: 'numeric' })
 let _uptime = process.uptime() * 1000
 let _muptime
 if (process.send) {
 process.send('uptime')
 _muptime = await new Promise(resolve => {
 process.once('message', resolve)
-setTimeout(resolve, 1000)
-}) * 1000
-}
+setTimeout(resolve, 1000)}) * 1000 }
 let muptime = clockString(_muptime)
 let uptime = clockString(_uptime)
 let totalreg = Object.keys(global.db.data.users).length
@@ -65,16 +58,15 @@ totalexp: exp,
 xp4levelup: max - exp,
 github: _package.homepage ? _package.homepage.url || _package.homepage : '[unknown github url]',
 level, limit, name, weton, week, date, dateIslamic, time, totalreg, rtotalreg, role,
-readmore: readMore
-}
+readmore: readMore }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])    
     
 let imagen1 = fs.readFileSync('./Menu2.jpg')
 let imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
 let imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
-let texto1 = `╭═─═─═─═─═─═─═╮
-║     𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 - 𝙼𝙳
-║╰═─═─═─═─═─══╯
+let texto1 = `╭═─═─═─═─═─═╮
+║   𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 - 𝙼𝙳
+║╰═─═─═─═─══╯
 ┠╮
 ║- 𝙷𝙾𝙻𝙰 @${m.sender.split("@")[0]}
 ║- 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -318,6 +310,10 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 230╠ ${usedPrefix}stickerfilter
 232╠ ${usedPrefix}menucompleto
 233╠ ${usedPrefix}menuaudios
+234╠ ${usedPrefix}menu2
+235╠ ${usedPrefix}menu3
+236╠ ${usedPrefix}playlist
+237╠ ${usedPrefix}playlist2
 ╭─╯
 ╠╯
 ║ㅤㅤㅤ A____A
@@ -330,8 +326,7 @@ let texto1 = `╭═─═─═─═─═─═─═╮
 ╰═─═─ • ⏄ • ─═─═╯`
 const fake = { quoted: {
 key : {
-participant : '0@s.whatsapp.net'
-},
+participant : '0@s.whatsapp.net' },
 message: {
 orderMessage: {
 itemCount : 999999,
@@ -340,16 +335,14 @@ surface : 1,
 message: wm, 
 orderTitle: 'WaBot',
 thumbnail: imagen2, 
-sellerJid: '0@s.whatsapp.net'
-}}}}      
+sellerJid: '0@s.whatsapp.net' }}}}      
 const owner = "5219992095479@s.whatsapp.net"
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]
 const buttons = [
 {buttonId: `#donar`, buttonText: {displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮'}, type: 1},
 {buttonId: `#menuaudios`, buttonText: {displayText: '🔊 𝙼𝙴𝙽𝚄 𝙰𝚄𝙳𝙸𝙾𝚂 🔊'}, type: 1},
-{buttonId: `#menucompleto`, buttonText: {displayText: '💟 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 💟'}, type: 1},
-]
+{buttonId: `#menucompleto`, buttonText: {displayText: '💟 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 💟'}, type: 1}, ]
 let buttonMessage = {
 document: imagen1, 
 fileName: `ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩`, 
@@ -360,24 +353,21 @@ fileLength: "99999999999999",
 mentions:[m.sender, owner],
 footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
 buttons: buttons,
-headerType: 4,
-    
+headerType: 4,   
 contextInfo: {
 "mentionedJid": [m.sender, owner],
 "externalAdReply": {
-"showAdAttribution": true,
+"showAdAttribution": false,
 "title": `𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽`,
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": imagen3,
 "mediaUrl": 'https://youtu.be/eC9TfKICpcY',
-"sourceUrl": 'https://www.pornhub.com'
-}}} 
-conn.sendMessage(m.chat, buttonMessage, fake)
-}
+"sourceUrl": 'https://www.pornhub.com' }}} 
+conn.sendMessage(m.chat, buttonMessage, fake)}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos|m|\?)$/i
+handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos)$/i
 export default handler
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
@@ -386,4 +376,3 @@ let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
 let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
 let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
 return [h, m, s].map(v => v.toString().padStart(2, 0)).join(':')}
-*/
