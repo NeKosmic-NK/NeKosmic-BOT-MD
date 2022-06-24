@@ -1,11 +1,12 @@
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
+import fs from 'fs'
+
 
 global.owner = [
-  ['34623442554', '👑 NeKosmic - Creador 👑', true],
-  ['5492615130362', '🔥 NeKosmic 🔥', true],
-  
+  ['34623442554', '👑 NeKosmic - Owner 👑', true],
+  ['5492615130362', '🤖 NeKosmic - Bot 🤖', true],
 ] // Cambia los numero que quieras
 global.mods = [] 
 global.prems = [] 
@@ -37,7 +38,8 @@ global.APIs = { // API Prefix
   neoxr: 'https://neoxr-api.herokuapp.com',
   ana: 'https://anabotofc.herokuapp.com/',
   kanx: 'https://kannxapi.herokuapp.com/',
-  dhnjing: 'https://dhnjing.xyz'
+  dhnjing: 'https://dhnjing.xyz',
+  violetics: 'https://violetics.pw'
 },
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -56,18 +58,21 @@ global.APIKeys = { // APIKey Here
   'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862',
   'https://botstyle-api.herokuapp.com': 'Eyar749L',
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://anabotofc.herokuapp.com/': 'AnaBot'
+  'https://anabotofc.herokuapp.com/': 'AnaBot',
+  'https://violetics.pw': 'beta'
 }
 
 // Sticker WM
-global.packname = '(≧▽≦)'
-global.author = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '(☞ﾟ∀ﾟ)☞'
+global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 
-global.wm = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
-global.multiplier = 9999 // The higher, The harder levelup
+global.imagen1 = fs.readFileSync('./Menu2.jpg')
+
+global.multiplier = 9999 
 
 global.rpg = {
   emoticon(string) {
