@@ -46,6 +46,7 @@ let str = `
 ° ඬ⃟🔊 _La biblia_
 ° ඬ⃟🔊 _Onichan_
 ° ඬ⃟🔊 _Mierda de Bot_
+° ඬ⃟🔊 _tio que rico_
 ° ඬ⃟🔊 _Siuuu_
 ° ඬ⃟🔊 _Rawr_
 ° ඬ⃟🔊 _UwU_
