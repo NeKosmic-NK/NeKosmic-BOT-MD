@@ -61,9 +61,9 @@ level, limit, name, weton, week, date, dateIslamic, time, totalreg, rtotalreg, r
 readmore: readMore }
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])    
     
-let imagen1 = fs.readFileSync('./Menu2.jpg')
-let imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
-let imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
+let imagen1 = fs.readFileSync('./media2/readme.img.jpg')
+let imagen2 = fs.readFileSync('./media2/readme.img.jpg') 
+let imagen3 = fs.readFileSync('./media2/readme.img.jpg')
 let texto1 = `╭═─═─═─═─═─═╮
 ║   𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃 - 𝙼𝙳
 ║╰═─═─═─═─══╯
