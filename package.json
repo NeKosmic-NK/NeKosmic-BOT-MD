@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
+    "name": "NeKosmic-Bot-MD",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Sigueme en IG: @nekosmic.nk",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/NeKosmic-NK",
     "author": {
-        "name": "BrunoSobrino"
+        "name": "NeKosmic-nk"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/NeKosmic-NK/NeKosmic-Bot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/NeKosmic-NK/NeKosmic-Bot-MD/issues"
     },
     "license": "MIT",
     "dependencies": {
