@@ -1,3 +1,4 @@
+
 import { createHash } from 'crypto'
 let handler = async function (m, { text, usedPrefix }) {
 let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
@@ -26,5 +27,5 @@ global.db.data.users[m.sender].exp += 10000
 }
 handler.help = ['verificar']
 handler.tags = ['xp']
-handler.command = /^(^(verify|register|verificar|reg|registrar)$/i
+handler.command = /^(verify|register|verificar|reg|registrar)/
 export default handler
