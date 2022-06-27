@@ -358,11 +358,11 @@ contextInfo: {
 "mentionedJid": [m.sender, owner],
 "externalAdReply": {
 "showAdAttribution": false,
-"title": `𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽`,
+"title": `𝚃𝙾𝙲𝙰𝙼𝙴 7𝚆7`,
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": imagen3,
-"mediaUrl": 'https://youtu.be/eC9TfKICpcY',
+"mediaUrl": 'http://atom.bio/nekosmic-nk',
 "sourceUrl": 'https://www.pornhub.com' }}} 
 conn.sendMessage(m.chat, buttonMessage, fake)}
 handler.help = ['menu', 'help', '?']
