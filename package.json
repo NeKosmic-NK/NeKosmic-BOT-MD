@@ -1,7 +1,7 @@
 {
-    "name": "NeKosmic-Bot-MD",
+    "name": "TheMystic-Bot-MD",
     "version": "1.0.0",
-    "description": "Sigueme en ig: @nekosmic.nk ",
+    "description": "Subscribete al canal de YT The Shadow Borkers",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -64,7 +64,6 @@
         "url-regex-safe": "^3.0.0",
         "wa-sticker-formatter": "^4.3.2",
         "yargs": "^17.3.1",
-        "yt-search": "^2.10.2",
-        "yt-search": "^2.7.6"
+        "yt-search": "^2.10.3"
     }
 }
