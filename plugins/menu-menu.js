@@ -442,7 +442,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 conn.sendHydrated(m.chat, str, wm, pp, 'https://www.instagram.com/invites/contact/?i=lwv1dph6f3rt&utm_content=ohvhscn', '👑𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼👑', null, null, [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
-['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
+['🐾 𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴 🐾', '/menusimple']
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
 //type: 'audioMessage', 
