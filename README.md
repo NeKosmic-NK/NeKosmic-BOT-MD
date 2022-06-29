@@ -52,7 +52,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install yarn
 > git clone https://github.com/NeKosmic-NK/NeKosmic-Bot-MD
 > cd NeKosmic-Bot-MD
-> git clone https://github.com/NeKosmic-NK/node_modules
 > npm install
 > yarn install 
 > npm install
