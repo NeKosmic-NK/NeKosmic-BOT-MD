@@ -63,7 +63,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*ミ💖 𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 💖彡*
+*ミ💖 𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃 💖彡*
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
 *📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
@@ -77,7 +77,7 @@ let str = `
 ° ඬ ⃟ 💟 _${usedPrefix}script_
 ° ඬ ⃟ 💟 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
-° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
+° ඬ⃟⚠️ _${usedPrefix}join *<enlace / link / url>*_
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 ° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
 ° ඬ⃟🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
@@ -364,27 +364,27 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟💵 _${usedPrefix}verificar_
 ° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
 *<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
-° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}sticker *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}s *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
-° ඬ⃟👽 _${usedPrefix}scircle *<responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
-° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}attp2 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp2 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp3 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp4 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp5 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}dado_
-° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}sticker *<responder a imagen o video>*_
+° ඬ⃟🥶 _${usedPrefix}sticker *<enlace / link / url>*_
+° ඬ⃟🥶 _${usedPrefix}s *<responder a imagen o video>*_
+° ඬ⃟🥶 _${usedPrefix}s *<enlace / link / url>*_
+° ඬ⃟🥶 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟🥶 _${usedPrefix}scircle *<responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}semoji *<tipo> <emoji>*_
+° ඬ⃟🥶 _${usedPrefix}attp *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}attp2 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp2 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp3 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp4 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp5 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}pat *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}slap *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}kiss *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}dado_
+° ඬ⃟🥶 _${usedPrefix}wm *<packname> <author>*_
+° ඬ⃟🥶 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 *<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 ° ඬ⃟👑 _${usedPrefix}cajafuerte_
 ° ඬ⃟👑 _${usedPrefix}enable *restrict*_
@@ -415,7 +415,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
-['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
+['🐾 𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴 🐾', '/menusimple']
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
 //type: 'audioMessage', 
