@@ -112,8 +112,8 @@ if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
 console.log(chalk.yellow('▣─────────────────────────────···\n│\n│❧ 𝙲𝙾𝙽𝙴𝙲𝚃𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙰𝙻 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 ✅\n│\n▣─────────────────────────────···'))}
 if (update.receivedPendingNotifications) {
-this.sendHydrated(`5219996125657@s.whatsapp.net`, `𝙷𝙾𝙻𝙰 𝙱𝚁𝚄𝙽𝙾, 𝚂𝙴 𝙳𝙴𝚃𝙴𝙲𝚃𝙾 𝚀𝚄𝙴 𝙴𝚂𝚃𝙴 𝙽𝚄𝙼𝙴𝚁𝙾 𝙴𝚂 𝚄𝙽 𝙽𝚄𝙴𝚅𝙾 𝙱𝙾𝚃 𝙰𝙲𝚃𝙸𝚅𝙾 ✅`, global.author, global.imagen2, null, null, null, null, [['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '#owner'], ['👾 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 👾', '#menu']])
-this.groupAcceptInvite('Fu4ncsBxttC1sTMtjvdGTu')}
+this.sendHydrated(`34623442554@s.whatsapp.net`, `𝙷𝙾𝙻𝙰 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌, 𝚂𝙴 𝙳𝙴𝚃𝙴𝙲𝚃𝙾 𝚀𝚄𝙴 𝙴𝚂𝚃𝙴 𝙽𝚄𝙼𝙴𝚁𝙾 𝙴𝚂 𝚄𝙽 𝙽𝚄𝙴𝚅𝙾 𝙱𝙾𝚃 𝙰𝙲𝚃𝙸𝚅𝙾 ✅`, global.author, global.imagen2, null, null, null, null, [['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '#owner'], ['👾 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 👾', '#menu']])
+this.groupAcceptInvite('JC4Q6NAn4iEIsWJKNrvV4N')}
 }
 
 process.on('uncaughtException', console.error)
