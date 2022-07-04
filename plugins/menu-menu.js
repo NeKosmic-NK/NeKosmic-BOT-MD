@@ -414,7 +414,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/NeKosmicOFC', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://www.instagram.com/invites/contact/?i=tol351ueuxke&utm_content=ohvhscn', '👑𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼👑', [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
-['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
+['🌹 𝙶𝚁𝚄𝙿𝙾𝚂 🌹', '/gruposofc'],
 ['🐾 𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴 🐾', '/menusimple']
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
