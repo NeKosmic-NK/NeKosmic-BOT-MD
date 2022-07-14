@@ -173,6 +173,7 @@ let str = `
 ° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
 ° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
+° ඬ⃟🧧 _${usedPrefix}copiar *<texto>*_
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
 ° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
 ° ඬ⃟🖍️ _${usedPrefix}logocorazon *<texto>*_
