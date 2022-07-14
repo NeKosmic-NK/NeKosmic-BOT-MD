@@ -121,6 +121,7 @@ let str = `
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 ° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
 *<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
+° ඬ⃟📥 _${usedPrefix}stickerpack *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
 ° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
