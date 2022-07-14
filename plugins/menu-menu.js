@@ -416,7 +416,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/NeKosmicOFC', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://www.instagram.com/invites/contact/?i=tol351ueuxke&utm_content=ohvhscn', '👑𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼👑', [
+conn.sendHydrated2(m.chat, str, wm, pp, 'https://vm.tiktok.com/ZMNaeWvpb/', '✨𝚃𝚒𝚔𝚃𝚘𝚔✨', 'https://www.instagram.com/invites/contact/?i=tol351ueuxke&utm_content=ohvhscn', '👑𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼👑', [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
 ['🌹 𝙶𝚁𝚄𝙿𝙾𝚂 🌹', '/gruposofc'],
 ['🐾 𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴 🐾', '/menusimple']
